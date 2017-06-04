@@ -7,7 +7,7 @@ import org.springframework.core.convert.converter.Converter;
 import org.springframework.stereotype.Component;
 
 import com.children.model.UserProfile;
-import com.osbb.service.UserProfileService;
+import com.children.service.UserProfileService;
 
 /**
  * A converter class used in views to map id's to actual userProfile objects.

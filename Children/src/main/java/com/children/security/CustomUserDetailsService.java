@@ -16,7 +16,7 @@ import org.springframework.transaction.annotation.Transactional;
 
 import com.children.model.User;
 import com.children.model.UserProfile;
-import com.osbb.service.UserService;
+import com.children.service.UserService;
 
 
 @Service("customUserDetailsService")
